@@ -1,2 +1,2 @@
-# AngelsafeV1.github.io
+# AngelsafeV1
 Angelsafe version 1 (native)
